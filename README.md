@@ -39,3 +39,4 @@ Can be deployed as a static site to Vercel:
 
 Before production, confirm content and translations with the client, replace demo contact details, implement any agreed backend features, and check applicable Saudi privacy and invoicing requirements.
 # AMAN
+# AMAN
